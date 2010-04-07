@@ -1,0 +1,9 @@
+Information on contributing to HebStem goes here.
+
+quick notes:
+
+- remember that to use libhspell as a stemmer it must be built as follows:
+
+  ./configure --enable-linginfo --enable-fatverb
+
+- additionally, you must call hspell_init() with a flags value including HSPELL_OPT_LINGUISTICS

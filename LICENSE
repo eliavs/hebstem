@@ -1,0 +1,12 @@
+HebStem is copyright (C) 2010, <us>
+
+It is released to the public licensed under the GNU General Public License
+(GPL). See the COPYING file included in this distribution for the whole text
+of the GNU General Public License version 2.
+
+Note that the source tree obtained from the HebStem repository contains
+some third-party code (e.g. libhspell), which is governed by its own
+license (in the case of hspell, it happens to be the same GPL).
+
+There is no warranty of any kind for the contents of this distribution.
+
